@@ -1,4 +1,7 @@
 <?php
+
+namespace Cibo;
+
 /**
  * A lightweight PHP class for downloading files through HTTP.
  *
